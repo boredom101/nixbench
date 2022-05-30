@@ -1,0 +1,2 @@
+# nixbench
+Analyze Nix derivations
