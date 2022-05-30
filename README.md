@@ -7,7 +7,7 @@ The goal is for this to be able to generate details about a list of derivations
 
 ## How to use:
 
-create a file similaar to `example.nix`, replacing the list of packages and the view.
+create a file similar to `example.nix`, replacing the list of packages and the view.
 
 ## List of views:
 
