@@ -1,0 +1,1 @@
+du -s $src/@file@ | cut -d "	" -f1 > view
